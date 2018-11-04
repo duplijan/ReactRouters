@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/duplijan/ReactRouters/precache-manifest.9df867e853918e978ac85136f36548e8.js"
+  "/duplijan/ReactRouters/precache-manifest.cec7cf7e64a9bc191f9ea34f4381f1b1.js"
 );
 
 workbox.clientsClaim();
