@@ -30,7 +30,12 @@ code {
 }
 .card-title {
   z-index: 10;
+  transition:  all 0.3s;
 }
+.card-title:hover {            
+  border-bottom: 1px solid green;
+}
+
 img {
   width: 50%;
   position: absolute;
