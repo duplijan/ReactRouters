@@ -1,14 +1,14 @@
 {
-  "main.css": "/duplijan/ReactRouters/static/css/main.0bd06526.chunk.css",
-  "main.js": "/duplijan/ReactRouters/static/js/main.339eb65f.chunk.js",
-  "main.js.map": "/duplijan/ReactRouters/static/js/main.339eb65f.chunk.js.map",
-  "static/js/1.ee73b183.chunk.js": "/duplijan/ReactRouters/static/js/1.ee73b183.chunk.js",
-  "static/js/1.ee73b183.chunk.js.map": "/duplijan/ReactRouters/static/js/1.ee73b183.chunk.js.map",
-  "runtime~main.js": "/duplijan/ReactRouters/static/js/runtime~main.c0c3d5d5.js",
-  "runtime~main.js.map": "/duplijan/ReactRouters/static/js/runtime~main.c0c3d5d5.js.map",
-  "static/media/map.png": "/duplijan/ReactRouters/static/media/map.93a0b9dc.png",
-  "static/css/main.0bd06526.chunk.css.map": "/duplijan/ReactRouters/static/css/main.0bd06526.chunk.css.map",
-  "index.html": "/duplijan/ReactRouters/index.html",
-  "precache-manifest.cec7cf7e64a9bc191f9ea34f4381f1b1.js": "/duplijan/ReactRouters/precache-manifest.cec7cf7e64a9bc191f9ea34f4381f1b1.js",
-  "service-worker.js": "/duplijan/ReactRouters/service-worker.js"
+  "main.css": "/ReactRouters/static/css/main.0bd06526.chunk.css",
+  "main.js": "/ReactRouters/static/js/main.59984337.chunk.js",
+  "main.js.map": "/ReactRouters/static/js/main.59984337.chunk.js.map",
+  "static/js/1.ee73b183.chunk.js": "/ReactRouters/static/js/1.ee73b183.chunk.js",
+  "static/js/1.ee73b183.chunk.js.map": "/ReactRouters/static/js/1.ee73b183.chunk.js.map",
+  "runtime~main.js": "/ReactRouters/static/js/runtime~main.b7de3888.js",
+  "runtime~main.js.map": "/ReactRouters/static/js/runtime~main.b7de3888.js.map",
+  "static/media/map.png": "/ReactRouters/static/media/map.93a0b9dc.png",
+  "static/css/main.0bd06526.chunk.css.map": "/ReactRouters/static/css/main.0bd06526.chunk.css.map",
+  "index.html": "/ReactRouters/index.html",
+  "precache-manifest.9c47e680a204ae142a91d8af70434adb.js": "/ReactRouters/precache-manifest.9c47e680a204ae142a91d8af70434adb.js",
+  "service-worker.js": "/ReactRouters/service-worker.js"
 }
