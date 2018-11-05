@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/duplijan/ReactRouters/",
+  "homepage": " https://github.com/duplijan/ReactRouters/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
