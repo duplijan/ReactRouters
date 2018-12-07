@@ -11,8 +11,7 @@ class Home extends Component {
       posts: []
     }
   }
-  //fetch posts from API and save thhem in the state
-  // use LINK to be able to access and open individual posts
+ 
   componentDidMount(){
     const url = 'https://jsonplaceholder.typicode.com/posts';
     axios.get(url)
@@ -45,7 +44,6 @@ class Home extends Component {
           <p className='center'>No Post Yet</p>
         </div>
     )
-
     return(
       <div>
         <div className='container'>
@@ -54,11 +52,8 @@ class Home extends Component {
         </div>
         <Footer />
       </div>
-
-
     )
   }
-
 }
 
 export default Home;
