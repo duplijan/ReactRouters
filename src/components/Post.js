@@ -2,14 +2,12 @@ import React, {Component} from 'react';
 import axios from 'axios';
 
 class Post extends Component {
-  constructor(){
-    super()
+  constructor(props){
+    super(props)
     this.state = {
       post: ''
     }
   }
-
-  //fetch post from API and save it in the state
   componentDidMount(){
     let id = this.props.match.params.post_id;
     const url = 'https://jsonplaceholder.typicode.com/posts/';
@@ -21,7 +19,6 @@ class Post extends Component {
         console.log(res.data)
       })
   }
-
   render(){
     const post = this.state.post ? (
       <div className='post card'>
