@@ -18,7 +18,6 @@ class Gallery extends Component {
           })
         })
     }
-
     render(){
       const {images} = this.state;
       const imagesGallerry = images.length ? (
@@ -40,7 +39,6 @@ class Gallery extends Component {
       ) : (
         <div className='container'>LOADING GALLERY...</div>
       )
-
       return(
         <div className='container-grid'>
             {imagesGallerry}
