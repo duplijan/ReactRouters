@@ -11,7 +11,7 @@ class Home extends Component {
       posts: []
     }
   }
- 
+
   componentDidMount(){
     const url = 'https://jsonplaceholder.typicode.com/posts';
     axios.get(url)
@@ -22,7 +22,6 @@ class Home extends Component {
       })
     })
   }
-
   render(){
     const {posts} = this.state;
     const postList = posts.length ?  (
