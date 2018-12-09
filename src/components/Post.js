@@ -16,7 +16,6 @@ class Post extends Component {
         this.setState({
           post: res.data
         })
-        console.log(res.data)
       })
   }
   render(){
