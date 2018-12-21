@@ -1,8 +1,5 @@
 import React from 'react';
 import {Link, NavLink, withRouter} from 'react-router-dom'
-//Link works simmilarly to a tag
-//NavLink works same as Link only adds active class => css styling can be applied
-
 
 const Navbar = (props) => {
   return(
